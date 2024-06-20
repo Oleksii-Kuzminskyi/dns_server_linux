@@ -1,1 +1,3 @@
 obj/*.o
+bin/DNS.db
+bin/dns_server
